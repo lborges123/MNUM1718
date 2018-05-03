@@ -1,0 +1,4 @@
+﻿  mnum 5.cpp
+c:\users\luisb\source\repos\mnum 5\mnum 5\mnum 5.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\luisb\source\repos\mnum 5\mnum 5\mnum 5.cpp(77): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  mnum 5.vcxproj -> C:\Users\luisb\source\repos\mnum 5\Debug\mnum 5.exe
